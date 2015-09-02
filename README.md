@@ -1,1 +1,1 @@
-# sweetDevil-icons
+The icon set of Miku
